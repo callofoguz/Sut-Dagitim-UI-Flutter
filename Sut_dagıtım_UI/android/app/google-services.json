@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176123625763",
+    "project_id": "sut-getir",
+    "storage_bucket": "sut-getir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176123625763:android:cfbb86a6d13214836f0c96",
+        "android_client_info": {
+          "package_name": "com.example.drivers_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176123625763-vqd1q7ihsrn9npabraabusou8sc1okuj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkFhwNfAlQnyAOc_EBARNcHB6Hr0fKU08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176123625763-vqd1q7ihsrn9npabraabusou8sc1okuj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
